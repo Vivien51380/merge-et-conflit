@@ -1,4 +1,4 @@
-REMOTE.md
+REMOTE
 
 # merge-et-conflit
 
